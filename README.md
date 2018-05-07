@@ -22,7 +22,21 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+| Yessica Chautá Insuasty | ykchautai |
+| Andrés Sánchez Lemus | andfsanchezlem |
+| Kevin Mendez Páez | kmendezp96 |
+
+## Implementación
+
+Se desarrollan los modos propuestos a partir de la plantilla basada en frames, ejecutándose de la siguiente manera:
+
+Modos: 
+- 0 natural cubic spline 
+- 1 Hermite
+- 2 (degree 7) Bezier
+- 3 Cubic Bezier
+
+y teniendo como base los 8 puntos de control ya establecidos.
 
 ## Entrega
 
